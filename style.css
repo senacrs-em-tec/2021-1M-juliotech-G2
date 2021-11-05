@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: #2CBEF0;
+    height: 200px;
+    width: 100%;
+}
+header img{
+    height: 185px;
+    width: 50%;
+}
+main{
+    height: 650px;
+    line-height: 25px;
+}
+main h2{
+    margin-left: 50px;
+    margin-top: 50px;
+    font-size: 27px;
+}
+main .block p{
+    margin-left: 100px;
+    
+}
+main .block {
+    height: 275x;
+    width: 45%;
+    position: absolute;
+		left:55%;
+		top:50%;
+		margin-left:-110px;      
+}
+
+main .block #julio{
+    background-color: #8DE30E;
+    height: 40px;
+    width: 150px;
+    margin-left: 260px;
+    font-size: 13px;
+}
+main .block strong{
+    font-size: 25px;
+    margin-left: 175px;
+}
+main .block h5{
+    margin-left: 225px;
+    margin-top: -10px;
+    color: #8DE30E;
+}
+.checked {
+    color: orange;
+}
+div span{
+    margin-left: 90px;
+    margin-top: 10px;
+}
+main #produto{
+    font-size: 13px;
+    margin-left: 140px;
+}
+main #desempenho{
+    float: right;
+    margin-right: 175px;
+}
+main h3{
+    margin-top: 5%;
+    margin-left: 60px;
+}
+.example {
+    
+    margin-left: 60px;
+}
+    .example-item_first {
+
+        width: 50%;
+        display: inline-block;
+        vertical-align: top;
+        height: 250px;
+    }
+    .example-item_second {
+        width: 40%;
+        display: inline-block;
+        vertical-align: top;
+        height: 250px;
+        margin-top: 15px;
+        margin-left: 55px;
+    }
+
+
+footer{
+    background-color: #2CBEF0;
+    height: 150px;
+    margin-top: 200px;
+}
+.container img{
+    margin-left: -50px;
+    width: 150%;
+}
+#video{
+    margin-left: 595px;
+    margin-top: -20%;
+}
