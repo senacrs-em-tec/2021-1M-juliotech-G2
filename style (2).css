@@ -4,11 +4,11 @@
 }
 header{
     background-color: #2CBEF0;
-    height: 100px;
+    height: 120px;
     width: 100%;
 }
 header img{
-    height: 100px;
+    height: 110px;
     width: 30%;
     margin-left: 35%;
 }
@@ -29,7 +29,6 @@ main .block {
     height: 275px;
     width: 45%;
     position: absolute;
-        margin-top: 50px;
 		left:55%;
 		top:50%;
 		margin-left:-110px;      
