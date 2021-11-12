@@ -12,7 +12,7 @@ header img{
     width: 50%;
 }
 main{
-    height: 1075px;
+    height: 775px;
     line-height: 25px;
 }
 main h2{
@@ -28,7 +28,7 @@ main .block {
     height: 275px;
     width: 45%;
     position: absolute;
-        margin-top: 50px;
+    margin-top: 50px;
 		left:55%;
 		top:50%;
 		margin-left:-110px;      
@@ -60,7 +60,6 @@ div span{
 main #produto{
     font-size: 13px;
     margin-left: 140px;
-    
 }
 main #desempenho{
     float: right;
@@ -69,7 +68,6 @@ main #desempenho{
 main h3{
     margin-top: 7%;
     margin-left: 60px;
-
 }
 .example {
     
