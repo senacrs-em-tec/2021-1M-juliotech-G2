@@ -11,7 +11,15 @@ header img{
     height: 185px;
     width: 50%;
 }
-
+main{
+    height: 1075px;
+    line-height: 25px;
+}
+main h2{
+    margin-left: 50px;
+    margin-top: 50px;
+    font-size: 27px;
+}
 main .block p{
     margin-left: 100px;
     
