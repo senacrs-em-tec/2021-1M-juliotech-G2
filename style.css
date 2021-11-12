@@ -29,6 +29,7 @@ main .block {
     height: 275px;
     width: 45%;
     position: absolute;
+        margin-top: -2%;
 		left:55%;
 		top:50%;
 		margin-left:-110px;      
