@@ -112,3 +112,12 @@ p{
   .wrapper .youtube:hover .tooltip:before{
     background: #DE463B;
   }
+
+.card img{
+  width: 150px;
+  height: 150px;
+  margin-left: 30%;
+}
+.card{
+  height: 350px;
+}
