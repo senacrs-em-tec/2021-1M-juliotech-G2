@@ -41,7 +41,7 @@ main .block #julio{
     background-color: #8DE30E;
     height: 40px;
     width: 150px;
-    margin-left: 250px;
+    margin-left: 210px;
     font-size: 13px;
 }
 main .block strong{
@@ -49,7 +49,7 @@ main .block strong{
     margin-left: 175px;
 }
 main .block h5{
-    margin-left: 225px;
+    margin-left: 190px;
     margin-top: -10px;
     color: #8DE30E;
 }
